@@ -9,3 +9,7 @@ section {
 .navbar-inverse {
   background-color: #690000;
 }
+
+.navbar-brand {
+	padding: 6px;
+}
